@@ -1,2 +1,1 @@
-# EGC
-EGC Lab
+# EGC 📘
