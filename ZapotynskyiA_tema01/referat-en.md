@@ -29,7 +29,3 @@ biblioteca grafică/API?
 **Answer:** At any given time, OpenGL has a specific "state," which includes things like current colors, textures, or transformations. The developer interacts with OpenGL by issuing instructions (like drawing shapes or transforming objects), which causes the state to change. These state changes occur in discrete steps), leading to the final rendered 3D scene.
 
 In this way, each action in OpenGL—such as drawing or applying a transformation—modifies the system's state. The final 3D scene is the result of the cumulative effect of all these actions, starting from the initial default state when the system is first initialized.
-
-
-
-
