@@ -1,0 +1,12 @@
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\lab5.exe.config
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\lab5.exe
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\lab5.pdb
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\OpenTK.dll
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\OpenTK.pdb
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\OpenTK.xml
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\obj\Debug\lab5.csproj.CopyComplete
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\obj\Debug\lab5.exe
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\obj\Debug\lab5.pdb
+C:\Users\Zapotinshii Augustin\Home\tilda\usv\EGC_lab\lab5\bin\Debug\cubeCoordinates.txt
